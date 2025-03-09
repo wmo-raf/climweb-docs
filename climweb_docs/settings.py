@@ -128,5 +128,5 @@ DEEPL_TRANSLATE_KEY = "testkey"
 DEEPL_FREE_API = True
 
 LOCALE_PATHS = [
-    'docs/locale'
+    'docs/locales'
 ]

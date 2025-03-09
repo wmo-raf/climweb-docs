@@ -1,3 +1,4 @@
+(setting-boundaries)=
 # Setting Boundaries
 
 This section guides you on how to set up boundaries which are useful in the creating an [Alert Area by polygon](Creating-Alerts.md#alert-area) .

@@ -112,7 +112,7 @@ version = release
 # language = 'en'
 # gettext_uuid = True
 # gettext_compact = False
-locales_dirs = ['locale']
+locales_dirs = ['locales']
 
 # There are two options for replacing |today|: either, you set today to some
 # non-false value, then it is used:

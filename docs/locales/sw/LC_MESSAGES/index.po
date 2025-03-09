@@ -1,15 +1,15 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2023
-# This file is distributed under the same license as the NMHS ClimWeb
+# Copyright (C) 2025, WMO Regional Office For Africa
+# This file is distributed under the same license as the ClimWeb
 # Documentation package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: NMHS ClimWeb Documentation 0.5\n"
+"Project-Id-Version: ClimWeb Documentation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-06 19:56+0900\n"
+"POT-Creation-Date: 2025-03-10 03:23+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: sw <LL@li.org>\n"
@@ -22,40 +22,34 @@ msgstr ""
 
 #: ../../index.rst:4
 msgid "Welcome to NMHS ClimWeb documentation"
-msgstr "Karibu kwenye hati za NMHS ClimWeb"
-
-#: ../../index.rst:6
-msgid "Downloadable pdf versions can be found at:"
-msgstr "Matoleo ya pdf yanayoweza kupakuliwa yanaweza kupatikana kwa:"
+msgstr "Karibu kwenye nyaraka za NMHS Clipweb"
 
 #: ../../index.rst:8
-msgid "To download the PDF version of this guide use"
-msgstr "Ili kupakua toleo la PDF la mwongozo huu tumia"
+msgid "Downloadable pdf versions can be found at:"
+msgstr "Toleo za kupakua za PDF zinaweza kupatikana kwa:"
 
 #: ../../index.rst:10
-msgid ""
-":download:`NMHS ClimWeb Manual (English) <https://nmhs-"
-"cms.readthedocs.io/_/downloads/en/latest/pdf/>`"
-msgstr ""
-":pakua:`Mwongozo wa ClimWeb wa NMHS (Kiingereza) <https://nmhs-"
-"cms.readthedocs.io/_/downloads/sw/latest/pdf/>`"
-
-#: ../../index.rst:11
-msgid ""
-":download:`NMHS ClimWeb Manual (French) <https://nmhs-"
-"cms.readthedocs.io/_/downloads/fr/latest/pdf/>`"
-msgstr ""
-":pakua:`Mwongozo wa ClimWeb wa NMHS (Kifaransa) <https://nmhs-"
-"cms.readthedocs.io/_/downloads/fr/latest/pdf/>`"
+msgid "To download the PDF version of this guide use"
+msgstr "Ili kupakua toleo la PDF la matumizi ya mwongozo huu"
 
 #: ../../index.rst:12
 msgid ""
+":download:`NMHS ClimWeb Manual (English) <https://nmhs-"
+"cms.readthedocs.io/_/downloads/en/latest/pdf/>`"
+msgstr ": Pakua: `NMHS CLIMWEB Mwongozo (Kiingereza)"
+
+#: ../../index.rst:13
+msgid ""
+":download:`NMHS ClimWeb Manual (French) <https://nmhs-"
+"cms.readthedocs.io/_/downloads/fr/latest/pdf/>`"
+msgstr ": Pakua: `NMHS Clipweb Mwongozo (Kifaransa)"
+
+#: ../../index.rst:14
+msgid ""
 ":download:`NMHS ClimWeb Manual (Swahili) <https://nmhs-"
 "cms.readthedocs.io/_/downloads/sw/latest/pdf/>`"
-msgstr ""
-":pakua:`Mwongozo wa ClimWeb wa NMHS (Kiswahili) <https://nmhs-"
-"cms.readthedocs.io/_/downloads/sw/latest/pdf/>`"
+msgstr ": Download: `NMHS CLIMWEB Mwongozo (Kiswahili)"
 
-#: ../../index.rst:16
+#: ../../index.rst:18
 msgid "NMHS ClimWeb"
-msgstr "NMHS ClimWeb"
+msgstr "NMHS Clipweb"

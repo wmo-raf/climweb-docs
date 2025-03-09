@@ -68,6 +68,8 @@ Each `Information` block contains the following elements:
 
 ![Alert Info](../../_static/images/cap/alert_info.png "Alert Info")
 
+
+(alert-area)=
 #### Alert Area
 
 Information Entity that defines the geographic area to be notified. Multiple areas can be defined in the alert. Each
